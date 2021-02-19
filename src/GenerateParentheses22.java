@@ -25,6 +25,7 @@ public class GenerateParentheses22 {
 
         if(right < left)
             helper(result, current + ")", left, right + 1, n);
+
     }
 
 }
