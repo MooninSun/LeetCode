@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class GeneralizedAbbreviation320_779 {
-    //ChangA
+    //TODO changA
 
     public List<String> generateAbbreviations(String word) {
         // Write your code here
